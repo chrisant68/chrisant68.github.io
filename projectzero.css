@@ -1,0 +1,63 @@
+body{
+    
+    font-family:Helvetica;
+}
+
+#sec1{
+    margin:10% 29.99% 10% 10%;
+    padding:0px 5px 5px 5px;
+}
+
+
+
+#description{
+    color:gray;
+    font-size:1em;
+}
+
+
+h1{
+    font-family:Helvetica;
+    font-size:30pt;
+}
+
+
+.btitle{
+    text-align:right;
+    width:33%;
+    padding-right:1%;
+    float:left;
+    font-style:italic;
+    font-size:15pt;
+}
+
+
+.binfo{
+    float:right;
+    width:65%;
+    text-align:left;
+    padding-left:.8%;
+    border-left:thin solid #777777;
+    font-size:13pt;
+}
+
+
+
+
+img{
+    float:right;
+    margin-right:20%;
+    margin-top:2%;
+    position:relative;
+    top:20%;
+    bottom:50%;
+    
+    width:20%;
+    height:30%;
+    box-shadow: 5px 5px 4px .01px #888888;
+}
+
+
+pic{
+    
+}
